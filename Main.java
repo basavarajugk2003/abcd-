@@ -6,7 +6,7 @@ public class Main {
         
         // 1. Variables and Data Types
         String name = "Alice";
-        int age = 25;
+        int age = 47;
         double gpa = 3.8;
         boolean isStudent = true;
 
